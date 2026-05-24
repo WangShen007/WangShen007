@@ -1,5 +1,9 @@
-<svg width="560" height="180" viewBox="0 0 560 180" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00F5FF"/><stop offset="1" stop-color="#FF2E93"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.n{font:900 30px Inter,Segoe UI,Arial}.d{font:600 18px Inter,Segoe UI,Arial}.s{font:700 15px Consolas,monospace}@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}.p{animation:pulse 2.4s infinite}</style></defs>
-<rect width="560" height="180" rx="24" fill="#070A1A"/><rect x="12" y="12" width="536" height="156" rx="20" fill="#0B1026" stroke="url(#g)" stroke-width="2" filter="url(#glow)"/><circle cx="492" cy="50" r="30" fill="#00F5FF" opacity=".18"/><circle class="p" cx="492" cy="50" r="10" fill="#00F5FF"/>
-<text x="34" y="62" class="n" fill="#FFFFFF">Frontend-Project</text><text x="34" y="99" class="d" fill="#D8E6FF">Modern frontend experiments</text><text x="34" y="136" class="s" fill="#00F5FF">Vue / React / UI Engineering</text><text x="420" y="142" class="s" fill="#FFFFFF">OPEN →</text>
+<svg width="560" height="190" viewBox="0 0 560 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><filter id="s"><feDropShadow dx="0" dy="14" stdDeviation="15" flood-color="#91AAB1" flood-opacity="0.18"/></filter></defs>
+  <rect x="10" y="10" width="540" height="170" rx="24" fill="#FFFDF8" stroke="#E2D8C8" filter="url(#s)"/>
+  <path d="M46 58H514" stroke="#D1B06A" stroke-width="2" opacity="0.62"/>
+  <circle cx="46" cy="58" r="6" fill="#D1B06A"/>
+  <text x="46" y="105" fill="#283640" font-family="Georgia, serif" font-size="31" font-weight="700">Frontend Project</text>
+  <text x="46" y="141" fill="#62717B" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">Polished web UI experiments</text>
+  <text x="46" y="166" fill="#D1B06A" font-family="Inter, sans-serif" font-size="14" font-weight="700" letter-spacing="3">VIEW REPOSITORY</text>
 </svg>
