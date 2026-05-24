@@ -1,0 +1,6 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="0" x2="1200" y1="0" y2="0"><stop stop-color="#00F5FF"/><stop offset=".5" stop-color="#B026FF"/><stop offset="1" stop-color="#FF2E93"/></linearGradient><filter id="f"><feGaussianBlur stdDeviation="4"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>@keyframes move{to{stroke-dashoffset:-360}}.a{stroke-dasharray:26 18;animation:move 8s linear infinite}</style></defs>
+  <rect width="1200" height="90" fill="#050014" opacity="0"/>
+  <path class="a" d="M40 45H1160" stroke="url(#g)" stroke-width="5" stroke-linecap="round" filter="url(#f)"/>
+  <circle cx="600" cy="45" r="18" fill="#050014" stroke="url(#g)" stroke-width="5" filter="url(#f)"/>
+</svg>

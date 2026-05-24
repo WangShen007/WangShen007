@@ -1,0 +1,5 @@
+<svg width="560" height="180" viewBox="0 0 560 180" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00F5FF"/><stop offset="1" stop-color="#FF2E93"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.n{font:900 30px Inter,Segoe UI,Arial}.d{font:600 18px Inter,Segoe UI,Arial}.s{font:700 15px Consolas,monospace}@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}.p{animation:pulse 2.4s infinite}</style></defs>
+<rect width="560" height="180" rx="24" fill="#070A1A"/><rect x="12" y="12" width="536" height="156" rx="20" fill="#0B1026" stroke="url(#g)" stroke-width="2" filter="url(#glow)"/><circle cx="492" cy="50" r="30" fill="#00F5FF" opacity=".18"/><circle class="p" cx="492" cy="50" r="10" fill="#00F5FF"/>
+<text x="34" y="62" class="n" fill="#FFFFFF">Frontend-Project</text><text x="34" y="99" class="d" fill="#D8E6FF">Modern frontend experiments</text><text x="34" y="136" class="s" fill="#00F5FF">Vue / React / UI Engineering</text><text x="420" y="142" class="s" fill="#FFFFFF">OPEN →</text>
+</svg>
