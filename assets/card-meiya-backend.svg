@@ -1,9 +1,0 @@
-<svg width="560" height="190" viewBox="0 0 560 190" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs><filter id="s"><feDropShadow dx="0" dy="14" stdDeviation="15" flood-color="#91AAB1" flood-opacity="0.18"/></filter></defs>
-  <rect x="10" y="10" width="540" height="170" rx="24" fill="#FFFFFF" stroke="#E2D8C8" filter="url(#s)"/>
-  <path d="M46 58H514" stroke="#C2A35E" stroke-width="2" opacity="0.62"/>
-  <circle cx="46" cy="58" r="6" fill="#C2A35E"/>
-  <text x="46" y="105" fill="#283640" font-family="Georgia, serif" font-size="31" font-weight="700">meiya-backend</text>
-  <text x="46" y="141" fill="#62717B" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">Backend engineering and APIs</text>
-  <text x="46" y="166" fill="#C2A35E" font-family="Inter, sans-serif" font-size="14" font-weight="700" letter-spacing="3">VIEW REPOSITORY</text>
-</svg>
