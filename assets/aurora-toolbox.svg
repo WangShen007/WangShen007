@@ -1,15 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101F"/><stop offset=".45" stop-color="#0B1730"/><stop offset="1" stop-color="#160D2D"/></linearGradient>
-  <radialGradient id="auroraA" cx="18%" cy="18%" r="70%"><stop stop-color="#72F3D6" stop-opacity=".75"/><stop offset=".45" stop-color="#5C8DFF" stop-opacity=".22"/><stop offset="1" stop-color="#5C8DFF" stop-opacity="0"/></radialGradient>
-  <radialGradient id="auroraB" cx="86%" cy="8%" r="75%"><stop stop-color="#FF7ACD" stop-opacity=".62"/><stop offset=".5" stop-color="#8D6BFF" stop-opacity=".20"/><stop offset="1" stop-color="#8D6BFF" stop-opacity="0"/></radialGradient>
-  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#78F7D3"/><stop offset=".45" stop-color="#6EA8FF"/><stop offset="1" stop-color="#FF7ACD"/></linearGradient>
-  <filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
-  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#A8C7FF" stroke-opacity=".055" stroke-width="1"/></pattern>
-</defs>
-<rect width="1200" height="430" rx="32" fill="url(#bg)"/>
-<rect width="1200" height="430" rx="32" fill="url(#auroraA)"/>
-<rect width="1200" height="430" rx="32" fill="url(#auroraB)"/>
-<rect width="1200" height="430" rx="32" fill="url(#grid)"/>
-<text x="64" y="72" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="850" fill="#FFFFFF" text-anchor="start" opacity="1">Toolbox</text><text x="64" y="110" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500" fill="#C7D7F7" text-anchor="start" opacity="1">The stack I reach for when ideas need a reliable shape.</text><rect x="64" y="155" width="238" height="210" rx="24" fill="#081227" fill-opacity=".66" stroke="#A8C7FF" stroke-opacity=".17"/><text x="88" y="199" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#FFFFFF" text-anchor="start" opacity="1">AI &amp; Agents</text><text x="88" y="239" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• OpenAI-compatible APIs</text><text x="88" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• vision workflows</text><text x="88" y="301" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• prompt systems</text><text x="88" y="332" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• subagents</text><rect x="336" y="155" width="238" height="210" rx="24" fill="#081227" fill-opacity=".66" stroke="#A8C7FF" stroke-opacity=".17"/><text x="360" y="199" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#FFFFFF" text-anchor="start" opacity="1">Interfaces</text><text x="360" y="239" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• TypeScript / Vue</text><text x="360" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• browser extensions</text><text x="360" y="301" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• SVG / Markdown craft</text><text x="360" y="332" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• product UX</text><rect x="608" y="155" width="238" height="210" rx="24" fill="#081227" fill-opacity=".66" stroke="#A8C7FF" stroke-opacity=".17"/><text x="632" y="199" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#FFFFFF" text-anchor="start" opacity="1">Automation</text><text x="632" y="239" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• WebADB / WebUSB</text><text x="632" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• GitHub Actions</text><text x="632" y="301" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• Python scripts</text><text x="632" y="332" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• workflow orchestration</text><rect x="880" y="155" width="238" height="210" rx="24" fill="#081227" fill-opacity=".66" stroke="#A8C7FF" stroke-opacity=".17"/><text x="904" y="199" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#FFFFFF" text-anchor="start" opacity="1">Data &amp; Infra</text><text x="904" y="239" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• Rust</text><text x="904" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• SQLite / DuckDB</text><text x="904" y="301" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• Redis / MongoDB</text><text x="904" y="332" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="520" fill="#BFD0EF" text-anchor="start" opacity="1">• cross-platform tooling</text>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#2d333b" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="430" fill="#111318"/>
+  <rect width="1200" height="430" fill="url(#grid)"/>
+  <text x="64" y="68" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#f0f3f6">Toolbox</text>
+  <text x="64" y="104" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#9aa3ad">The stack I reach for when ideas need a reliable shape.</text>
+  <rect x="64" y="140" width="250" height="236" rx="8" fill="none" stroke="#2d333b" stroke-width="1"/>
+  <text x="84" y="180" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#f0f3f6">AI &amp; Agents</text>
+  <line x1="84" y1="196" x2="148" y2="196" stroke="#7dd3c7" stroke-width="1.25"/>
+  <text x="84" y="228" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">OpenAI-compatible APIs</text>
+  <text x="84" y="256" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">vision workflows</text>
+  <text x="84" y="284" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">prompt systems</text>
+  <text x="84" y="312" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">subagents</text>
+  <rect x="338" y="140" width="250" height="236" rx="8" fill="none" stroke="#2d333b" stroke-width="1"/>
+  <text x="358" y="180" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#f0f3f6">Interfaces</text>
+  <line x1="358" y1="196" x2="422" y2="196" stroke="#7dd3c7" stroke-width="1.25"/>
+  <text x="358" y="228" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">TypeScript / Vue</text>
+  <text x="358" y="256" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">browser extensions</text>
+  <text x="358" y="284" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">SVG / Markdown craft</text>
+  <text x="358" y="312" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">product UX</text>
+  <rect x="612" y="140" width="250" height="236" rx="8" fill="none" stroke="#2d333b" stroke-width="1"/>
+  <text x="632" y="180" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#f0f3f6">Automation</text>
+  <line x1="632" y1="196" x2="696" y2="196" stroke="#7dd3c7" stroke-width="1.25"/>
+  <text x="632" y="228" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">WebADB / WebUSB</text>
+  <text x="632" y="256" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">GitHub Actions</text>
+  <text x="632" y="284" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">Python scripts</text>
+  <text x="632" y="312" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">workflow orchestration</text>
+  <rect x="886" y="140" width="250" height="236" rx="8" fill="none" stroke="#2d333b" stroke-width="1"/>
+  <text x="906" y="180" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#f0f3f6">Data &amp; Infra</text>
+  <line x1="906" y1="196" x2="970" y2="196" stroke="#7dd3c7" stroke-width="1.25"/>
+  <text x="906" y="228" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">Rust</text>
+  <text x="906" y="256" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">SQLite / DuckDB</text>
+  <text x="906" y="284" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">Redis / MongoDB</text>
+  <text x="906" y="312" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">cross-platform tooling</text>
 </svg>

@@ -1,32 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101F"/><stop offset=".45" stop-color="#0B1730"/><stop offset="1" stop-color="#160D2D"/></linearGradient>
-  <radialGradient id="auroraA" cx="18%" cy="18%" r="70%"><stop stop-color="#72F3D6" stop-opacity=".75"/><stop offset=".45" stop-color="#5C8DFF" stop-opacity=".22"/><stop offset="1" stop-color="#5C8DFF" stop-opacity="0"/></radialGradient>
-  <radialGradient id="auroraB" cx="86%" cy="8%" r="75%"><stop stop-color="#FF7ACD" stop-opacity=".62"/><stop offset=".5" stop-color="#8D6BFF" stop-opacity=".20"/><stop offset="1" stop-color="#8D6BFF" stop-opacity="0"/></radialGradient>
-  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#78F7D3"/><stop offset=".45" stop-color="#6EA8FF"/><stop offset="1" stop-color="#FF7ACD"/></linearGradient>
-  <filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
-  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#A8C7FF" stroke-opacity=".055" stroke-width="1"/></pattern>
-</defs>
-<rect width="1200" height="420" rx="32" fill="url(#bg)"/>
-<rect width="1200" height="420" rx="32" fill="url(#auroraA)"/>
-<rect width="1200" height="420" rx="32" fill="url(#auroraB)"/>
-<rect width="1200" height="420" rx="32" fill="url(#grid)"/>
-
-<circle cx="150" cy="95" r="94" fill="#78F7D3" opacity=".14" filter="url(#soft)"/>
-<circle cx="1020" cy="85" r="130" fill="#FF7ACD" opacity=".13" filter="url(#soft)"/>
-<path d="M76 352 C266 228 396 432 594 295 C785 162 939 284 1126 185" fill="none" stroke="url(#line)" stroke-width="3" opacity=".75"/>
-<path d="M75 372 C276 268 408 460 602 328 C792 200 942 332 1128 225" fill="none" stroke="url(#line)" stroke-width="1.4" opacity=".35"/>
-<text x="72" y="88" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#93E8FF" text-anchor="start" opacity=".95">WANGSHEN007</text>
-<text x="72" y="156" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="850" fill="#FFFFFF" text-anchor="start" opacity="1">I build calm interfaces</text>
-<text x="72" y="217" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="850" fill="#FFFFFF" text-anchor="start" opacity="1">for restless automation.</text>
-<text x="76" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="520" fill="#C7D7F7" text-anchor="start" opacity="1">Agent systems · Browser/Android automation · useful AI tools · product-minded engineering</text>
-<rect x="76" y="314" width="166" height="44" rx="22.0" fill="#101A33" stroke="#31507D" stroke-opacity=".9"/><text x="159.0" y="342.0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650" fill="#B9D6FF" text-anchor="middle">Agent Builder</text>
-<rect x="258" y="314" width="190" height="44" rx="22.0" fill="#101A33" stroke="#31507D" stroke-opacity=".9"/><text x="353.0" y="342.0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650" fill="#B9D6FF" text-anchor="middle">Full-stack Maker</text>
-<rect x="464" y="314" width="210" height="44" rx="22.0" fill="#101A33" stroke="#31507D" stroke-opacity=".9"/><text x="569.0" y="342.0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650" fill="#B9D6FF" text-anchor="middle">Automation Designer</text>
-<g transform="translate(790 255)">
-  <rect x="0" y="0" width="310" height="108" rx="26" fill="#081227" fill-opacity=".66" stroke="#9CC7FF" stroke-opacity=".22"/>
-  <text x="30" y="43" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#8EF7DD" text-anchor="start" opacity="1">command desk</text>
-  <text x="30" y="76" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="720" fill="#EAF2FF" text-anchor="start" opacity="1">ship small systems that compound</text>
-</g>
-
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#2d333b" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="420" fill="#111318"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+  <line x1="64" y1="1" x2="64" y2="419" stroke="#2d333b" stroke-width="1"/>
+  <path d="M80 348 C280 250 420 390 620 300 C820 210 960 310 1120 240" fill="none" stroke="#7dd3c7" stroke-width="1.25" opacity=".55"/>
+  <text x="72" y="86" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#7dd3c7" letter-spacing="3">WANGSHEN007</text>
+  <text x="72" y="154" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" fill="#f0f3f6">I build calm interfaces</text>
+  <text x="72" y="210" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" fill="#f0f3f6">for restless automation.</text>
+  <text x="72" y="262" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#9aa3ad">Agent systems · Browser/Android automation · useful AI tools · product-minded engineering</text>
+  <line x1="72" y1="292" x2="360" y2="292" stroke="#2d333b" stroke-width="1"/>
+  <text x="72" y="334" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="500" fill="#c8d0d8">Agent Builder · Full-stack Maker · Automation Designer</text>
 </svg>
