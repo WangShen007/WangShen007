@@ -1,36 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img">
-  <defs>
-    <style>
-      .ink { fill: #1f2328; }
-      .muted { fill: #57606a; }
-      .accent { fill: #0f766e; }
-      .border { fill: none; stroke: #d0d7de; }
-      .grid-line { fill: none; stroke: #d0d7de; }
-      @media (prefers-color-scheme: dark) {
-        .ink { fill: #f0f3f6; }
-        .muted { fill: #9aa3ad; }
-        .accent { fill: #7dd3c7; }
-        .border { stroke: #2d333b; }
-        .grid-line { stroke: #2d333b; }
-      }
-    </style>
-    <pattern id="now-grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path class="grid-line" d="M40 0H0V40" fill="none" stroke="#d0d7de" stroke-width="1" opacity=".28"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="500" fill="url(#now-grid)"/>
-  <text class="ink" x="64" y="68" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#1f2328">Now</text>
-  <text class="muted" x="64" y="106" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#57606a">Current direction: turning personal workflows into small, durable agents.</text>
-  <rect class="border" x="64" y="140" width="1072" height="92" rx="8" fill="none" stroke="#d0d7de" stroke-width="1"/>
-  <text class="accent" x="88" y="178" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0f766e">01</text>
-  <text class="ink" x="132" y="178" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#1f2328">Safer automation</text>
-  <text class="muted" x="88" y="208" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#57606a">Making automation safer with explicit plans, checkpoints and verification.</text>
-  <rect class="border" x="64" y="248" width="1072" height="92" rx="8" fill="none" stroke="#d0d7de" stroke-width="1"/>
-  <text class="accent" x="88" y="286" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0f766e">02</text>
-  <text class="ink" x="132" y="286" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#1f2328">Useful products</text>
-  <text class="muted" x="88" y="316" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#57606a">Packaging useful AI tools so they feel less like demos and more like products.</text>
-  <rect class="border" x="64" y="356" width="1072" height="92" rx="8" fill="none" stroke="#d0d7de" stroke-width="1"/>
-  <text class="accent" x="88" y="394" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0f766e">03</text>
-  <text class="ink" x="132" y="394" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#1f2328">Minimal surface</text>
-  <text class="muted" x="88" y="424" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#57606a">Keeping the surface minimal: fewer moving parts, clearer outcomes.</text>
+  <rect width="1200" height="500" fill="#f8faf9"/>
+  <text x="64" y="68" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#1f2328">Now</text>
+  <text x="64" y="106" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#57606a">Current direction: turning personal workflows into small, durable agents.</text>
+  <rect x="64" y="140" width="1072" height="92" rx="8" fill="#ffffff" stroke="#d8e0dc" stroke-width="1"/>
+  <text x="88" y="178" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0f766e">01</text>
+  <text x="132" y="178" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#1f2328">Safer automation</text>
+  <text x="88" y="208" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#57606a">Making automation safer with explicit plans, checkpoints and verification.</text>
+  <rect x="64" y="248" width="1072" height="92" rx="8" fill="#ffffff" stroke="#d8e0dc" stroke-width="1"/>
+  <text x="88" y="286" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0f766e">02</text>
+  <text x="132" y="286" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#1f2328">Useful products</text>
+  <text x="88" y="316" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#57606a">Packaging useful AI tools so they feel less like demos and more like products.</text>
+  <rect x="64" y="356" width="1072" height="92" rx="8" fill="#ffffff" stroke="#d8e0dc" stroke-width="1"/>
+  <text x="88" y="394" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0f766e">03</text>
+  <text x="132" y="394" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#1f2328">Minimal surface</text>
+  <text x="88" y="424" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#57606a">Keeping the surface minimal: fewer moving parts, clearer outcomes.</text>
 </svg>

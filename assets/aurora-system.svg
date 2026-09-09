@@ -1,15 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101F"/><stop offset=".45" stop-color="#0B1730"/><stop offset="1" stop-color="#160D2D"/></linearGradient>
-  <radialGradient id="auroraA" cx="18%" cy="18%" r="70%"><stop stop-color="#72F3D6" stop-opacity=".75"/><stop offset=".45" stop-color="#5C8DFF" stop-opacity=".22"/><stop offset="1" stop-color="#5C8DFF" stop-opacity="0"/></radialGradient>
-  <radialGradient id="auroraB" cx="86%" cy="8%" r="75%"><stop stop-color="#FF7ACD" stop-opacity=".62"/><stop offset=".5" stop-color="#8D6BFF" stop-opacity=".20"/><stop offset="1" stop-color="#8D6BFF" stop-opacity="0"/></radialGradient>
-  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#78F7D3"/><stop offset=".45" stop-color="#6EA8FF"/><stop offset="1" stop-color="#FF7ACD"/></linearGradient>
-  <filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
-  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#A8C7FF" stroke-opacity=".055" stroke-width="1"/></pattern>
-</defs>
-<rect width="1200" height="440" rx="32" fill="url(#bg)"/>
-<rect width="1200" height="440" rx="32" fill="url(#auroraA)"/>
-<rect width="1200" height="440" rx="32" fill="url(#auroraB)"/>
-<rect width="1200" height="440" rx="32" fill="url(#grid)"/>
-<text x="64" y="68" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="850" fill="#FFFFFF" text-anchor="start" opacity="1">Operating System</text><text x="64" y="108" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500" fill="#C7D7F7" text-anchor="start" opacity="1">A practical loop for building tools that can actually finish work.</text><rect x="64" y="150" width="496" height="96" rx="24" fill="#081227" fill-opacity=".68" stroke="#A8C7FF" stroke-opacity=".18"/><text x="92" y="192" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="850" fill="#78F7D3" text-anchor="start" opacity="1">01</text><text x="142" y="192" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="780" fill="#FFFFFF" text-anchor="start" opacity="1">Sense</text><text x="142" y="222" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500" fill="#AFC2E8" text-anchor="start" opacity="1">collect signals from web, devices, repos and user workflows</text><rect x="600" y="150" width="496" height="96" rx="24" fill="#081227" fill-opacity=".68" stroke="#A8C7FF" stroke-opacity=".18"/><text x="628" y="192" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="850" fill="#78F7D3" text-anchor="start" opacity="1">02</text><text x="678" y="192" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="780" fill="#FFFFFF" text-anchor="start" opacity="1">Plan</text><text x="678" y="222" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500" fill="#AFC2E8" text-anchor="start" opacity="1">turn messy goals into checkable execution paths</text><rect x="64" y="282" width="496" height="96" rx="24" fill="#081227" fill-opacity=".68" stroke="#A8C7FF" stroke-opacity=".18"/><text x="92" y="324" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="850" fill="#78F7D3" text-anchor="start" opacity="1">03</text><text x="142" y="324" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="780" fill="#FFFFFF" text-anchor="start" opacity="1">Act</text><text x="142" y="354" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500" fill="#AFC2E8" text-anchor="start" opacity="1">operate browsers, files, APIs and mobile surfaces safely</text><rect x="600" y="282" width="496" height="96" rx="24" fill="#081227" fill-opacity=".68" stroke="#A8C7FF" stroke-opacity=".18"/><text x="628" y="324" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="850" fill="#78F7D3" text-anchor="start" opacity="1">04</text><text x="678" y="324" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="780" fill="#FFFFFF" text-anchor="start" opacity="1">Polish</text><text x="678" y="354" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500" fill="#AFC2E8" text-anchor="start" opacity="1">make the final surface stable, readable and delightful</text>
+  <rect width="1200" height="440" fill="#f8faf9"/>
+  <text x="64" y="68" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#1f2328">Operating System</text>
+  <text x="64" y="106" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#57606a">A practical loop for building tools that can actually finish work.</text>
+  <rect x="64" y="150" width="520" height="96" rx="10" fill="#ffffff" stroke="#d8e0dc" stroke-width="1"/>
+  <text x="92" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0f766e">01</text>
+  <text x="142" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2328">Sense</text>
+  <text x="142" y="222" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#57606a">collect signals from web, devices, repos and user workflows</text>
+  <rect x="616" y="150" width="520" height="96" rx="10" fill="#ffffff" stroke="#d8e0dc" stroke-width="1"/>
+  <text x="644" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0f766e">02</text>
+  <text x="694" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2328">Plan</text>
+  <text x="694" y="222" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#57606a">turn messy goals into checkable execution paths</text>
+  <rect x="64" y="282" width="520" height="96" rx="10" fill="#ffffff" stroke="#d8e0dc" stroke-width="1"/>
+  <text x="92" y="324" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0f766e">03</text>
+  <text x="142" y="324" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2328">Act</text>
+  <text x="142" y="354" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#57606a">operate browsers, files, APIs and mobile surfaces safely</text>
+  <rect x="616" y="282" width="520" height="96" rx="10" fill="#ffffff" stroke="#d8e0dc" stroke-width="1"/>
+  <text x="644" y="324" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0f766e">04</text>
+  <text x="694" y="324" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2328">Polish</text>
+  <text x="694" y="354" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#57606a">make the final surface stable, readable and delightful</text>
 </svg>
