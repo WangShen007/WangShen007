@@ -3,42 +3,42 @@
 <img src="./assets/aurora-hero.svg" alt="WangShen007 — Agent builder and AI explorer" width="100%" />
 
 <a href="https://github.com/WangShen007?tab=repositories"><img src="https://img.shields.io/badge/🚀%20Projects-0f766e?style=flat-square&labelColor=f6f8fa&color=0f766e" alt="Projects" /></a>
-<a href="https://linux.do/u/wangshen007"><img src="https://img.shields.io/badge/LinuxDo-三级用户-0f766e?style=flat-square&labelColor=f6f8fa&color=0f766e" alt="LinuxDo level 3" /></a>
-<a href="mailto:shenw470@gmail.com"><img src="https://img.shields.io/badge/Email-联系我-0f766e?style=flat-square&labelColor=f6f8fa&color=0f766e" alt="Email" /></a>
+<a href="https://linux.do/u/wangshen007"><img src="https://img.shields.io/badge/LinuxDo-Level%203-0f766e?style=flat-square&labelColor=f6f8fa&color=0f766e" alt="LinuxDo level 3" /></a>
+<a href="mailto:shenw470@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-0f766e?style=flat-square&labelColor=f6f8fa&color=0f766e" alt="Email" /></a>
 
 <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=0F766E&background=F8FAF9&center=true&vCenter=true&width=760&lines=Agent+builder+%C2%B7+AI+explorer+%C2%B7+LinuxDo+%E4%B8%89%E7%BA%A7;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E8%83%BD%E8%BF%90%E8%A1%8C%E3%80%81%E8%83%BD%E5%A4%8D%E7%9B%98%E3%80%81%E8%83%BD%E4%BA%A4%E4%BB%98%E7%9A%84%E7%B3%BB%E7%BB%9F;Database+%C2%B7+Automation+%C2%B7+Product-minded+engineering" alt="Typing introduction" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=0F766E&background=F8FAF9&center=true&vCenter=true&width=760&lines=Agent+builder+%C2%B7+AI+explorer+%C2%B7+LinuxDo+Lv.3;Turning+ideas+into+working%2C+verifiable+systems;Database+%C2%B7+Automation+%C2%B7+Product-minded+engineering" alt="Typing introduction" /></a>
 
 </div>
 
 <img src="./assets/aurora-divider.svg" alt="" width="100%" />
 
-## 你好，我是王珅 · WangShen007
+## Hi, I'm Wang Shen · WangShen007
 
-我喜欢研究 **AI 与 Agent**，也喜欢把它们接到真实的工具、数据和工作流里。数据库出身让我习惯先问：状态在哪里、失败如何恢复、结果怎样验证。现在，我正在把这套思维带进 Agent Engineering。
+I enjoy exploring **AI and agents** and connecting them to real tools, data, and workflows. My background in databases taught me to ask: Where does state live? How do we recover from failures? How do we verify results? I'm bringing that mindset to agent engineering.
 
-**whoami** — wangshen007 · agent enthusiast · AI tinkerer · LinuxDo Lv.3 · hexagon warrior
+**whoami** — wangshen007 · agent enthusiast · AI tinkerer · LinuxDo Lv.3 · well-rounded builder
 
 **mission** — make useful things · keep the feedback loop short · ship with evidence
 
-## 六边形战士 · Hexagon profile
+## Six areas of focus
 
-| 维度 | 我在持续练习的事 | 维度 | 我在持续练习的事 |
+| Area | What I keep practicing | Area | What I keep practicing |
 | :--- | :--- | :--- | :--- |
-| ◈ **Agent Engineering** | 工具调用、记忆、规划、评测与多 Agent 协作 | ◈ **AI Research** | LLM 应用、视觉工作流、提示词与模型体验 |
-| ◈ **Data & DBA** | Oracle / MySQL、性能、可靠性与可观测性 | ◈ **Automation** | Python / Shell、浏览器与 Android 自动化 |
-| ◈ **Linux & Infra** | Linux、容器、服务治理与故障排查 | ◈ **Expression** | 文档、开源协作、把复杂问题讲清楚 |
+| ◈ **Agent Engineering** | Tool use, memory, planning, evaluation, and multi-agent collaboration | ◈ **AI Research** | LLM applications, vision workflows, prompting, and trying new models |
+| ◈ **Data & DBA** | Oracle / MySQL, performance, reliability, and observability | ◈ **Automation** | Python / Shell, browser and Android automation |
+| ◈ **Linux & Infra** | Linux, containers, service operations, and troubleshooting | ◈ **Communication** | Documentation, open-source collaboration, and explaining complex ideas clearly |
 
-## 正在运行 · Now building
+## Now building
 
 <img src="./assets/aurora-now.svg" alt="Current focus: agent systems, AI workflows and useful tools" width="100%" />
 
-- 🧪 把 Agent 的 **sense → plan → act → verify** 做成可复用的工程套路
-- 🧰 研究浏览器 / Android 自动化、MCP、视觉理解与个人生产力工具
-- 📚 记录实验、踩坑和可复现的过程，让每次尝试都能留下证据
+- 🧪 Turning the **sense → plan → act → verify** loop into reusable engineering patterns for agents
+- 🧰 Exploring browser and Android automation, MCP, visual understanding, and personal productivity tools
+- 📚 Documenting experiments, lessons learned, and reproducible workflows to make results easy to verify
 
-## 精选实验室 · Selected builds
+## Selected builds
 
 <div align="center">
 <table>
@@ -53,9 +53,9 @@
 </table>
 </div>
 
-更多正在生长的项目： [Nook](https://github.com/WangShen007/Nook) · [flowing](https://github.com/WangShen007/flowing) · [findjob](https://github.com/WangShen007/findjob) · [agent-awesome-engineering](https://github.com/kobejiasuoer/awesome-agent-engineering) · [ai-job-search-codex](https://github.com/liIIASD/ai-job-search-codex)
+More projects in progress: [Nook](https://github.com/WangShen007/Nook) · [flowing](https://github.com/WangShen007/flowing) · [findjob](https://github.com/WangShen007/findjob) · [agent-awesome-engineering](https://github.com/kobejiasuoer/awesome-agent-engineering) · [ai-job-search-codex](https://github.com/liIIASD/ai-job-search-codex)
 
-## 工具箱 · Toolbox
+## Toolbox
 
 <img src="./assets/aurora-toolbox.svg" alt="AI, interfaces, automation, data and infrastructure toolbox" width="100%" />
 
@@ -74,15 +74,15 @@
   <img src="https://img.shields.io/badge/SQLite-f6f8fa?style=flat-square&logo=sqlite&logoColor=0f766e&labelColor=f8faf9&color=d8e0dc" alt="SQLite" />
 </p>
 
-## 贡献轨迹 · Activity
+## Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=WangShen007&amp;hide_border=true&amp;background=F8FAF9&amp;ring=0F766E&amp;fire=0F766E&amp;currStreakLabel=1F2328&amp;sideLabels=57606A&amp;dates=57606A&amp;currStreakNum=1F2328&amp;sideNums=1F2328" alt="GitHub streak" width="495" />
 </div>
 
-[查看完整贡献记录](https://github.com/WangShen007?tab=overview)
+[View full contribution history](https://github.com/WangShen007?tab=overview)
 
-## 找到我 · Connect
+## Connect
 
 [GitHub](https://github.com/WangShen007) · [LinuxDo](https://linux.do/u/wangshen007) · [Email](mailto:shenw470@gmail.com)
 
