@@ -2,13 +2,13 @@
 
 <img src="./assets/aurora-hero.svg" alt="WangShen007 — Agent builder and AI explorer" width="100%" />
 
-<a href="https://github.com/WangShen007?tab=repositories"><img src="https://img.shields.io/badge/🚀%20Projects-111318?style=flat-square&labelColor=111318&color=7dd3c7" alt="Projects" /></a>
-<a href="https://linux.do/u/wangshen007"><img src="https://img.shields.io/badge/LinuxDo-三级用户-111318?style=flat-square&labelColor=111318&color=2d333b" alt="LinuxDo level 3" /></a>
-<a href="mailto:shenw470@gmail.com"><img src="https://img.shields.io/badge/Email-联系我-111318?style=flat-square&labelColor=111318&color=2d333b" alt="Email" /></a>
+<a href="https://github.com/WangShen007?tab=repositories"><img src="https://img.shields.io/badge/🚀%20Projects-0f766e?style=flat-square&labelColor=f6f8fa&color=0f766e" alt="Projects" /></a>
+<a href="https://linux.do/u/wangshen007"><img src="https://img.shields.io/badge/LinuxDo-三级用户-0f766e?style=flat-square&labelColor=f6f8fa&color=0f766e" alt="LinuxDo level 3" /></a>
+<a href="mailto:shenw470@gmail.com"><img src="https://img.shields.io/badge/Email-联系我-0f766e?style=flat-square&labelColor=f6f8fa&color=0f766e" alt="Email" /></a>
 
 <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=7DD3C7&center=true&vCenter=true&width=760&lines=Agent+builder+%C2%B7+AI+explorer+%C2%B7+LinuxDo+%E4%B8%89%E7%BA%A7;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E8%83%BD%E8%BF%90%E8%A1%8C%E3%80%81%E8%83%BD%E5%A4%8D%E7%9B%98%E3%80%81%E8%83%BD%E4%BA%A4%E4%BB%98%E7%9A%84%E7%B3%BB%E7%BB%9F;Database+%C2%B7+Automation+%C2%B7+Product-minded+engineering" alt="Typing introduction" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=760&lines=Agent+builder+%C2%B7+AI+explorer+%C2%B7+LinuxDo+%E4%B8%89%E7%BA%A7;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E8%83%BD%E8%BF%90%E8%A1%8C%E3%80%81%E8%83%BD%E5%A4%8D%E7%9B%98%E3%80%81%E8%83%BD%E4%BA%A4%E4%BB%98%E7%9A%84%E7%B3%BB%E7%BB%9F;Database+%C2%B7+Automation+%C2%B7+Product-minded+engineering" alt="Typing introduction" /></a>
 
 </div>
 
@@ -63,22 +63,45 @@ make useful things · keep the feedback loop short · ship with evidence
 <img src="./assets/aurora-toolbox.svg" alt="AI, interfaces, automation, data and infrastructure toolbox" width="100%" />
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,vue,rust,linux,docker,git,github,redis,mysql,postgres,sqlite" alt="Python, TypeScript, Vue, Rust, Linux, Docker, Git, GitHub, Redis, MySQL, PostgreSQL and SQLite" />
+  <img src="https://img.shields.io/badge/Python-f6f8fa?style=flat-square&logo=python&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-f6f8fa?style=flat-square&logo=typescript&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue-f6f8fa?style=flat-square&logo=vuedotjs&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="Vue" />
+  <img src="https://img.shields.io/badge/Rust-f6f8fa?style=flat-square&logo=rust&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="Rust" />
+  <img src="https://img.shields.io/badge/Linux-f6f8fa?style=flat-square&logo=linux&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-f6f8fa?style=flat-square&logo=docker&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-f6f8fa?style=flat-square&logo=git&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-f6f8fa?style=flat-square&logo=github&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Redis-f6f8fa?style=flat-square&logo=redis&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-f6f8fa?style=flat-square&logo=mysql&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-f6f8fa?style=flat-square&logo=postgresql&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-f6f8fa?style=flat-square&logo=sqlite&logoColor=0f766e&labelColor=ffffff&color=d0d7de" alt="SQLite" />
 </p>
 
 ## 贡献轨迹 · Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=WangShen007&show_icons=true&hide_border=true&bg_color=111318&title_color=7DD3C7&icon_color=7DD3C7&text_color=C8D0D8&rank_icon=github" alt="GitHub stats" width="49%" />
-<img src="https://streak-stats.demolab.com?user=WangShen007&theme=dark&hide_border=true&background=111318&ring=7DD3C7&fire=7DD3C7&currStreakLabel=C8D0D8" alt="GitHub streak" width="49%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WangShen007&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7dd3c7&amp;icon_color=7dd3c7&amp;text_color=f0f3f6&amp;rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WangShen007&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0f766e&amp;icon_color=0f766e&amp;text_color=1f2328&amp;rank_icon=github" alt="GitHub stats" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WangShen007&amp;hide_border=true&amp;background=00000000&amp;ring=7DD3C7&amp;fire=7DD3C7&amp;currStreakLabel=F0F3F6&amp;sideLabels=9AA3AD&amp;dates=9AA3AD&amp;currStreakNum=F0F3F6&amp;sideNums=F0F3F6" />
+  <img src="https://streak-stats.demolab.com?user=WangShen007&amp;theme=default&amp;hide_border=true&amp;background=00000000" alt="GitHub streak" width="49%" />
+</picture>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WangShen007&bg_color=111318&color=9AA3AD&line=7DD3C7&point=7DD3C7&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WangShen007&amp;bg_color=00000000&amp;color=f0f3f6&amp;line=7dd3c7&amp;point=7dd3c7&amp;area=true&amp;hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WangShen007&amp;bg_color=00000000&amp;color=1f2328&amp;line=0f766e&amp;point=0f766e&amp;area=true&amp;hide_border=true" alt="GitHub activity graph" width="100%" />
+</picture>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+</picture>
 </div>
 
 ## 找到我 · Connect

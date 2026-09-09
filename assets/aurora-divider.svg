@@ -1,5 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img">
-  <line x1="64" y1="17" x2="574" y2="17" stroke="#2d333b" stroke-width="1"/>
-  <line x1="626" y1="17" x2="1136" y2="17" stroke="#2d333b" stroke-width="1"/>
-  <circle cx="600" cy="17" r="3.5" fill="none" stroke="#7dd3c7" stroke-width="1.25"/>
+  <style>
+    .border { fill: none; stroke: #d0d7de; }
+    .accent-stroke { fill: none; stroke: #0f766e; }
+    @media (prefers-color-scheme: dark) {
+      .border { stroke: #2d333b; }
+      .accent-stroke { stroke: #7dd3c7; }
+    }
+  </style>
+  <line class="border" x1="64" y1="17" x2="574" y2="17" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <line class="border" x1="626" y1="17" x2="1136" y2="17" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <circle class="accent-stroke" cx="600" cy="17" r="3.5" fill="none" stroke="#0f766e" stroke-width="1.25"/>
 </svg>

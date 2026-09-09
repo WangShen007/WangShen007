@@ -1,9 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="580" height="290" viewBox="0 0 580 290" role="img">
-  <rect width="580" height="290" rx="8" fill="#111318" stroke="#2d333b" stroke-width="1"/>
-  <line x1="28" y1="28" x2="552" y2="28" stroke="#2d333b" stroke-width="1"/>
-  <line x1="28" y1="28" x2="96" y2="28" stroke="#7dd3c7" stroke-width="1.5"/>
-  <text x="28" y="78" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#f0f3f6">DailyBrief</text>
-  <text x="28" y="114" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#9aa3ad">AI daily brief from GitHub, X, markets and 23 sources</text>
-  <text x="28" y="176" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#c8d0d8">LLM · News · Automation · CN</text>
-  <text x="28" y="246" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#7dd3c7">open repository →</text>
+  <style>
+    .ink { fill: #1f2328; }
+    .muted { fill: #57606a; }
+    .accent { fill: #0f766e; }
+    .border { fill: none; stroke: #d0d7de; }
+    .accent-stroke { fill: none; stroke: #0f766e; }
+    @media (prefers-color-scheme: dark) {
+      .ink { fill: #f0f3f6; }
+      .muted { fill: #9aa3ad; }
+      .accent { fill: #7dd3c7; }
+      .border { stroke: #2d333b; }
+      .accent-stroke { stroke: #7dd3c7; }
+    }
+  </style>
+  <rect class="border" width="580" height="290" rx="8" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <line class="border" x1="28" y1="28" x2="552" y2="28" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <line class="accent-stroke" x1="28" y1="28" x2="96" y2="28" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+  <text class="ink" x="28" y="78" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#1f2328">DailyBrief</text>
+  <text class="muted" x="28" y="114" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#57606a">AI daily brief from GitHub, X, markets and 23 sources</text>
+  <text class="muted" x="28" y="176" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#57606a">LLM · News · Automation · CN</text>
+  <text class="accent" x="28" y="246" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#0f766e">open repository →</text>
 </svg>
